@@ -1,0 +1,10 @@
+INSERT INTO users(name, email, age)
+VALUES ('John Doe', 'john.doe@mail.com', 59);
+INSERT INTO users(name, email, age)
+VALUES ('Poul Blart', 'poul.blart@mail.com', 34);
+INSERT INTO users(name, email, age)
+VALUES ('Lupita Nyongo', 'lupita@mail.com', 22);
+INSERT INTO users(name, email, age)
+VALUES ('Sho Madjozi', 'sho@mail.com', 40);
+INSERT INTO users(name, email, age)
+VALUES ('Mejja Genge', 'mejja.genge@mail.com', 45);
